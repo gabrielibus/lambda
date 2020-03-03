@@ -1,0 +1,38 @@
+{
+    "amazon": {
+        "url": "https://aws.amazon.com/service-terms/?nc1=h_ls",
+        "mainTag": "main[role='main']"
+    },
+    "google": {
+        "url": "https://policies.google.com/terms?hl=en-US",
+        "mainTag": "div[class='nrAB0c']"
+    },
+    "dropbox": {
+        "url": "https://www.dropbox.com/terms",
+        "mainTag": "div[class='terms-content']"
+    },
+    "mongodb": {
+        "url": "https://www.mongodb.com/cloud-terms-and-conditions",
+        "mainTag": "div[class='database-content p-b-15 m-b-15']"
+    },
+    "slack": {
+        "url": "https://slack.com/intl/es-co/terms-of-service",
+        "mainTag": "div[class='legal-content']"
+    },
+    "bancolombia": {
+        "url": "https://www.grupobancolombia.com/personas/condiciones-de-uso/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQzNnD1MLAx83IMDTA0cDV2dHYOczCwMLI31w8EKDHAARwP9KGL041EQhd_4cP0osBJ_Dw93dxN3gwB_Y3NTg8BAAwNLI9dgT0svU6gCPGYU5IZGGGQ6KgIA7cJLjw!!/",
+        "mainTag": "div[class='col-xs-12']"
+    },
+    "payonner": {
+        "url": "https://www.payoneer.com/legal/privacy-policy/",
+        "mainTag": "div[class='vc_row wpb_row section vc_row-fluid  article_block legal_article_block custom-row-width-small grid_section']"
+    },
+    "rappi": {
+        "url": "https://legal.rappi.com/colombia/terminos-y-condiciones-de-uso-de-plataforma-rappi-2/",
+        "mainTag": "div[class='entry-content']"
+    },
+    "davivienda": {
+        "url": "https://comunicaciones.davivienda.com/App-edificios-tyc?elqTrackId=a94e1e07a0f94c36a2a85aea94a4d948&elq=00000000000000000000000000000000&elqaid=4189&elqat=2&elqCampaignId=",
+        "mainTag": "div[class='col-xs-8 col-xs-offset-2']"
+    }
+}
